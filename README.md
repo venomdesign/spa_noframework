@@ -1,1 +1,1 @@
-"# spa_noframework" 
+POC Product page with no framework
